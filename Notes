@@ -1,0 +1,18 @@
+CONFIGURATION:
+1. Create React- app
+2. Removed all files except app.js, inde.js&css
+3. Install Tailwind css according to the instructions
+4. Install React icons
+5. Select  Raleway and great Vibe fonts from google fonts
+6. We dont't want great vibes to be a custom font so configuring it in the tailwind.config.js file
+7. Adding the assets folder
+
+8. Creating necessary components-> Home, Navbar
+9. To add a vertical section which contains all the social handles we use new component sociall Links component
+10. About is for brief intro about you
+
+11. Portflio is for the projects part, I have just created the structure, implement it whenever you feel it's necessary
+
+12. Experiences is for the tech stack you know
+13. Created the contact component using form
+14. To collect response submitted used getform.io 
