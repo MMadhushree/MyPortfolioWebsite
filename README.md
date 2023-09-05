@@ -8,8 +8,8 @@ My portfolio website serves as a showcase of my skills, experience, and projects
 
 - **Home:** An introduction to who I am.
 - **About:** Details about my background, skills, and interests.
-- **Experience:** Information about my work experience and projects.
-- **Contact:** Ways to get in touch with me.
+- **Experience:** Information about the technologies I've worked with.
+- **Contact:** A contact form to get in touch with me.
 - **Social Links:** Links to my social media profiles.
 
 ## Technologies Used
